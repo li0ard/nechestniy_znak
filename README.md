@@ -1,5 +1,7 @@
 # Нечестный знак
-<img style="border: 1px solid #F2E208; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius:10px;" src="https://habrastorage.org/webt/7w/rw/6w/7wrw6w-k_woryibchbnbpezesag.jpeg">
+<img src="https://habrastorage.org/webt/7w/rw/6w/7wrw6w-k_woryibchbnbpezesag.jpeg">
+
+[Github](https://github.com/li0ard/nechestniy_znak)
 
 Библеотека обертка для API ГИС МТ "Честный Знак"
 ### Установка

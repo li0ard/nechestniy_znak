@@ -1,4 +1,3 @@
-# Нечестный знак
 <img src="https://habrastorage.org/webt/7w/rw/6w/7wrw6w-k_woryibchbnbpezesag.jpeg">
 
 [Github](https://github.com/li0ard/nechestniy_znak)

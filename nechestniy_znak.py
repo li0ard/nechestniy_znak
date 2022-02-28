@@ -15,3 +15,5 @@ class Lib:
 
 	def infoFromEAN13(self, ean13):
 		return self._get(ean13, "ean13")
+	def infoFromQr(self, qr):
+		return self._get(qr, "qr")

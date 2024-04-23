@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nechestniy_znak"
+version = "1.0.1"
+authors = [
+    { name="li0ard", email="li0ard@proton.me" },
+]
+maintainers = [
+    {name = "li0ard", email = "li0ard@proton.me"}
+]
+description = "Библеотека обертка для API ГИС МТ “Честный Знак”"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+  "requests",
+]
+
+[project.urls]
+Homepage = "https://github.com/li0ard/nechestniy_znak"
+Issues = "https://github.com/li0ard/nechestniy_znak/issues"

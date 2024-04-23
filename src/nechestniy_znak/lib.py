@@ -1,7 +1,4 @@
-# НЕЧестный Знак
-# (C) 2021, li0ard, ЦРПТ
-
-import requests, urllib
+import requests
 from typing import Union
 
 

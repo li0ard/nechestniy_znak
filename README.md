@@ -4,7 +4,10 @@
 
 Библеотека обертка для API ГИС МТ "Честный Знак"
 ### Установка
-Просто скачайте и переместите файл `nechestniy_znak.py` и импортируйте его как показано в примере.
+```
+pip install nechestniy_znak
+```
+
 ### Пример
 ```py
 from nechestniy_znak import Lib

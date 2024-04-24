@@ -2,7 +2,7 @@ import requests
 from typing import Union
 
 
-class Lib:
+class Crpt:
     def __init__(self):
         pass
 
